@@ -176,7 +176,7 @@ export default function QRCodeGenerator() {
           </div>
         )}
         <p className="text-center text-yellow-600">
-          Example code is for solving Baemin's pickup problem. Character length
+          Example code is for solving delivery pickup problem. Character length
           is adjustable.
         </p>
       </div>
